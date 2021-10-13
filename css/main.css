@@ -1,0 +1,54 @@
+.blurb1 {
+  box-shadow: 10px 10px #1a1838;
+  padding-top: 10px;
+  border: 5px solid #1a1838;
+  text-align: center;
+  background: rgb(52,45,170);
+  background: radial-gradient(circle, rgba(52,45,170,1) 0%, rgba(42,42,250,1) 35%, rgba(0,212,255,1) 100%);
+  font-size: 20px;
+  border-radius: 20px;
+  margin: 50px;
+  font-family: monospace;
+  color: #1a1838;
+  width: flex;
+  padding: auto;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.amazon-background {
+  background: rgb(52,45,170);
+  background: linear-gradient(270deg, rgba(52,45,170,1) 0%, rgba(42,42,250,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+#hotpocket-about {
+  color: #1a1838;
+}
+
+.background-image {
+  background-image: url('../images/EchoShow.png');
+}
+
+nav {
+  font-family: monospace;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+nav-link {
+  color: white;
+}
+
+
+carouselslide {
+  width: flex;
+  padding: auto;
+}
+
+gradient {
+  width: flex;
+  padding: auto;
+  background: rgb(52,45,170);
+  background: linear-gradient(90deg, rgba(52,45,170,1) 0%, rgba(42,42,250,1) 35%, rgba(0,212,255,1) 100%);
+}
